@@ -40,7 +40,4 @@ The repository includes implementations and practice problems related to:
 
 ---
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/moeed111/DSA-USING-JAVA.git
+
